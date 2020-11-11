@@ -1,5 +1,8 @@
 # Semi-Final Version of GFFinder (Adding more features and API's)
 
+# About:
+A web application that allows users to seamlessly find gamers from all around the world to play with and to create friendships. Our purpose is to connect gamers to create a team and ease the "pre-gaming" set up process.
+
 ------------------------------------
 
 # Steps to start up the application:
