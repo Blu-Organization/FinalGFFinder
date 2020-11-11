@@ -5,7 +5,7 @@
 # Steps to start up the application:
 
   1. Clone down the repository to your local machine. 
-  2. Open up the following repository on vscode. 
+  2. Open up the repository on vscode. 
   3. Open up a terminal at the repository directory.
   4. Type ```npm install``` in the terminal.
   5. Once you have installed all the needed dependencies type ```npm run build```.
